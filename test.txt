@@ -2,3 +2,4 @@
 这个是要合并的
 这是master分支上的内容,这个是mergedemo上添加的内容
 version 1
+version 2
